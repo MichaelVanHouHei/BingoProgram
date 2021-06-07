@@ -1,0 +1,7 @@
+D:\C#\BingoProgram\BingoProgram\bin\Debug\BingoProgram.exe.config
+D:\C#\BingoProgram\BingoProgram\bin\Debug\BingoProgram.exe
+D:\C#\BingoProgram\BingoProgram\bin\Debug\BingoProgram.pdb
+D:\C#\BingoProgram\BingoProgram\obj\Debug\BingoProgram.csprojAssemblyReference.cache
+D:\C#\BingoProgram\BingoProgram\obj\Debug\BingoProgram.csproj.CoreCompileInputs.cache
+D:\C#\BingoProgram\BingoProgram\obj\Debug\BingoProgram.exe
+D:\C#\BingoProgram\BingoProgram\obj\Debug\BingoProgram.pdb

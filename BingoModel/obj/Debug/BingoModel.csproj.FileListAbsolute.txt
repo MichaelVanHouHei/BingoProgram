@@ -1,0 +1,5 @@
+D:\C#\BingoProgram\BingoModel\bin\Debug\BingoModel.dll
+D:\C#\BingoProgram\BingoModel\bin\Debug\BingoModel.pdb
+D:\C#\BingoProgram\BingoModel\obj\Debug\BingoModel.csproj.CoreCompileInputs.cache
+D:\C#\BingoProgram\BingoModel\obj\Debug\BingoModel.dll
+D:\C#\BingoProgram\BingoModel\obj\Debug\BingoModel.pdb
